@@ -1,5 +1,1 @@
-# Machine-Learning
-# Machine-Learning
-# Machine-Learning
-# Machine-Learning
-# Machine-Learning
+Practical implementation Python of the machine learning algorithms.
