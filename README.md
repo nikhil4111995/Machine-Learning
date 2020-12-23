@@ -1,1 +1,1 @@
-Practical implementation Python of the machine learning algorithms.
+Practical implementation of the machine learning algorithms with Python
